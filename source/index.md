@@ -1,5 +1,7 @@
 # Jobs
 
+- [仓库主页](https://github.com/NYIST-OS/Jobs)
+
 为南**阳**理工校友提供的工作推荐平台。
 
 ## 前言
@@ -55,4 +57,4 @@
 
 ---
 
-- [回到主页](nyist-os.github.io)
+- [回到组织首页](https://nyist-os.github.io)
