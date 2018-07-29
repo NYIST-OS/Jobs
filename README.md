@@ -18,7 +18,7 @@
 
 | 公司名称 | 招聘职位 | 工作地点 | 截止时间 | 投递链接/邮箱 | 来源 | 备注 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| XXX 科技公司 | 技术类 · Java 后端工程师 · [职位描述](https://github.com/NYIST-OS/Jobs/) | 北京市 | 长期 | example@example.com | 朋友 | 📌 · 示例 |
+| XXX 科技公司 | 技术类<br>Java 后端<br>[职位描述](https://github.com/NYIST-OS/Jobs/) | 北京市 | 长期 | example@example.com | 朋友 | 📌<br>示例 |
 
 ### 校园招聘
 
