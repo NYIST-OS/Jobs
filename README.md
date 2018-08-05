@@ -28,8 +28,8 @@
 
 | 公司名称 | 官网 | 工作地点 | 招聘职位 | 有效时间 | 投递方式 | 来源 | 备注 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 北京展心展力信息科技有限公司 | [metaapp.cn](http://metaapp.cn) | 北京 | Android 开发工程师<br>Java 后端工程师 | - | WeChat: 375975847 | 朋友推荐 | 🔎 |
-| 上海巧房信息科技有限公司 | [qiaofang.cn](http://www.qiaofang.cn) | 上海 | Android 开发工程师 | 长期 | WeChat: 375975847 | 朋友推荐 | 📌 |
+| 北京展心展力信息科技有限公司 | [metaapp.cn](http://metaapp.cn) | 北京 | Android 开发工程师<br>Java 后端工程师 | - | QQ: 375975847 | 朋友推荐 | 🔎 |
+| 上海巧房信息科技有限公司 | [qiaofang.cn](http://www.qiaofang.cn) | 上海 | Android 开发工程师 | 长期 | QQ: 375975847 | 朋友推荐 | 📌 |
 
 ## 问与答
 
