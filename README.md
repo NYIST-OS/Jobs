@@ -31,6 +31,10 @@
 | 北京展心展力信息科技有限公司 | [metaapp.cn](http://metaapp.cn) | 北京 | Android 开发工程师<br>Java 后端工程师 | - | QQ: 375975847 | 朋友推荐 | 🔎 |
 | 上海巧房信息科技有限公司 | [qiaofang.cn](http://www.qiaofang.cn) | 上海 | Android 开发工程师 | 长期 | QQ: 375975847 | 朋友推荐 | 📌 |
 
+## 经验
+
+- [简历](exp/Resume)
+
 ## 问与答
 
 - 问：请问我关注了这个列表，还需要自己找公司投递吗？
