@@ -35,7 +35,7 @@
 
 ## 经验
 
-- [简历](https://github.com/NYIST-OS/Jobs/exp/Resume)
+- [简历](https://nyist-os.github.io/Jobs/exp/Resume)
 
 ## 问与答
 
